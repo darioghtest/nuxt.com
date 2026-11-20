@@ -1,7 +1,7 @@
 ---
 authors:
   - name: Paragraph Team
-    username: paragraph_xyz
+    username: paragraph-xyz
 category: Announcement
 date: 2026-11-20
 description: A test article for GitHub publishing
